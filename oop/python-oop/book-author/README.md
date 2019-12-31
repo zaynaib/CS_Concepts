@@ -10,4 +10,3 @@ How to Run
 In order to run the main program in the terminal `python book.py`
 
 In order to run the unit test in the terminal `python book.py`
-dfsf
