@@ -19,5 +19,4 @@ class Author:
     def toString(self):
         return f"Author[{self.name},{self.email},{self.gender}]"
 
-if __name__ == '__main__':
-    pass
+
